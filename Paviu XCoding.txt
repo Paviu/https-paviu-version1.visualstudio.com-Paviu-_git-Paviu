@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <title>Paviu Marketplace</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="description" content="Use Paviu to securely sell products or buy products delivered in hours with mobile money, pesapal, visa and mastercard"/> 
+    <meta property="og:site_name" content="paviu"/>
+    <meta property="og:description" content="Use Paviu to securely sell products or buy products delivered in hours with mobile money, pesapal, visa and mastercard"/>
+        <title>buy,sell,advertise - kenya | paviu
+        <meta property="og:title" content="buy,sell,advertise - kenya | paviu
+
+            <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+
+        <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/umptech-main-login.css">
+
+    
+</head>
+<body class="cms-index-index index-opt-2">
+<div class="wrapper">
+
+    
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade
+        your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <div class="text-right"><h1 class="text-paviulogo"><img alt="paviu"
+                                                                       src="/assets/images/logo.png">
+                    </h1>
+                    <br/>
+                </div>
+            </div>
+
+
+        </div>
+        <div class="row">
+            <div class="col-md-3  hidden-xs col-md-offset-7">
+
+                <h2 class="page-heading">
+                    <span class="page-heading-title2">Login</span>
+                </h2>
+
+            </div>
+        </div>
+        <div class="row">
+
+
+            <div class="col-md-6 col-sm-7 col-md-offset-1">
+                <br>
+                <br>
+                <br>
+                <h1 class="paviu-tag-header text-left">Paviu is</h1>
+                <p class="paviu-tag text-left">a platform where sellers place bids per view, post marketing videos and upload products for sale;</p>
+                <p class="paviu-tag text-left">buyers can then order and pay for products to be delivered at their doorsteps.</p>
+            </div>
+
+            <div class="col-md-3 col-sm-5">
+                <br>
+                <div class="box-authentication box-authentication-ump">
+                    <h3>Already registered?</h3>
+                    <label for="email_login">Email address</label>
+                    <form name="login" method="post">
+                    <div class="form-group">
+                        
+                        <input type="email" id="login_email" name="login[email]" required="required" class="form-control underline-input" placeholder="Email" />
+
+                    </div>
+
+
+                    <div class="form-group">
+                        
+                        <input type="password" id="login_password" name="login[password]" required="required" class="form-control underline-input" placeholder="Password" />
+
+                    </div>
+
+
+                    <div class="form-group text-left mt-20">
+
+                        <button type="submit" id="login_save" name="login[save]" class="btn btn-warning">Login</button>
+
+
+                        <a href="/forgot" class="pull-right forgot-pass">Forgot Password?</a>
+                    </div>
+
+                    <input type="hidden" id="login__token" name="login[_token]" value="YUaa9WJm8ocJrLbC5daxxzObQFBydAvpWGx5woYm5xs" /></form>
+
+
+                    <hr class="b-3x">
+
+                    <div class="lt wrap-reset mt-40">
+                        <p class="m-0 text-center">
+                            <a href="/sign-up/step-1" class="btn btn-danger  b-0 br-2 mr-5">Register</a>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+</div>
+
+
+
+    <!-- Boostrap -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <!-- Countdown -->
+
+    <script src="/assets/js/parsley/parsley.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+
+
+
+</body>
+</html>
